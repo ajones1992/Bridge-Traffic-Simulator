@@ -10,7 +10,6 @@ GOAL: Run batch traffic across the bridge
 #include <string.h>
 #include <pthread.h>
 #include <time.h>
-#include <semaphore.h>
 
 #define BRIDGE_LIMIT 12
 
